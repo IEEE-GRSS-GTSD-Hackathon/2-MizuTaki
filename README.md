@@ -13,10 +13,6 @@
 
 [Sample Dataset:	](#_toc133684898)
 
-[MOSDAC Dataset	](#_toc133684899)
-
-[NOAA Dataset (National Oceanic and Atmospheric Administration)  	](#_toc133684900)
-
 [Annotated images:	](#_toc133684901)
 
 [Training	](#_toc133684902)
@@ -60,12 +56,18 @@ SDG #11: SUSTAINABLE CITIES AND COMMUNITIES
 ## <a name="_toc133684898"></a>Sample Dataset:
 
 MOSDAC (ISRO)
+
+
 ![Picture2](https://user-images.githubusercontent.com/52893813/235316280-9f46d644-9964-428e-a631-05b8b07bdb44.png)
+
+
 - Source: MOSDAC, INSAT-3D (Collected in 2022)
 - No. of images: ~2400
 
 GIBBS (NOAA)
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/52893813/235316521-6da09259-e0fb-4e11-915c-4d3ce10b3c70.png)
+
 - Source: METEOSAT-7 
 
 
