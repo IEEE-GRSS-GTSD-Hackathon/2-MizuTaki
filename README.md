@@ -20,6 +20,6 @@ cyclone       56        56            0.965  0.98.2   9.991      0.611
 - Train the model.
 
 ## Reference
-•	https://www.mosdac.gov.in/  (MOSDAC)
-•	https://docs.ultralytics.com/ (YOLO v8)
-•	https://www.ncei.noaa.gov/  (NOAA)
+- https://www.mosdac.gov.in/  (MOSDAC)
+-	https://docs.ultralytics.com/ (YOLO v8)
+-	https://www.ncei.noaa.gov/  (NOAA)
